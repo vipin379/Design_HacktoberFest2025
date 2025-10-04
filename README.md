@@ -1,4 +1,4 @@
-# Design_HacktoberFest24
+# Design_HacktoberFest2025
 ![Image](https://github.com/user-attachments/assets/3c277aa6-6fb1-4636-b14a-a05bbbe9a0d9)
 ##  About Us
 The **Mozilla Campus Club of CCEW** was formed to **promote the idea of open source** among aspiring students and encourage them to make the most of the opportunities that come along with it.  
